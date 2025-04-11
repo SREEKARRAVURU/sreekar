@@ -1,0 +1,23 @@
+{
+  "name": "login-register-page",
+  "version": "1.0.0",
+  "description": "A login and register page with frontend and backend interaction.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server", 
+    "build": "npm run build",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "login",
+    "register",
+    "frontend",
+    "html",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
